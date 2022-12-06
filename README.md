@@ -6,7 +6,7 @@ This is the final project of the IBM Data Science Professional Certificate. You 
 Task is to predict if the first stage of the SpaceX Falcon 9 rocket will land successfully.
 
 ## Tools :hammer_and_wrench:
-- Python (Pandas, NumPy, Seaborn, Matplotlib)
+- Python (BeautifulSoup, Pandas, NumPy, Seaborn, Matplotlib)
 - SQL
 - IBM Watson
 - IBM Db2
