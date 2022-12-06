@@ -27,4 +27,4 @@ Goal is predicting if the first stage of the SpaceX Falcon 9 rocket will land su
 - Predictive Analysis
 
 ## Resolution
-PDF solution with my presentation can be found [here](SpaceXCapstoneProject.pdf). You can dig into the individual folders to see the complete code for each task.
+PDF with my presentation can be found [here](SpaceXCapstoneProject.pdf). You can dig into the individual folders to see the complete code for each task.
