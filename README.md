@@ -13,7 +13,7 @@ Goal is predicting if the first stage of the SpaceX Falcon 9 rocket will land su
 - Github
 - Folium
 - Plotly
-- Machine Learning (LogisticRegression, KNN, SVM, Decision Tree)
+- Machine Learning (Logistic Regression, KNN, SVM, Decision Tree)
 - MS PowerPoint
 
 ## Skills :nerd_face:
